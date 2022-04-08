@@ -1,2 +1,3 @@
+A sample line added by collaborator 
 Hi collaborator 
 Hello Owner
